@@ -1,2 +1,2 @@
 # Todo
-Simple todo site for managing your activities
+Simple todo api for managing your activities
